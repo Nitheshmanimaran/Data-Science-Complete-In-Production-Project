@@ -1,0 +1,6 @@
+airline,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left
+Vistara,Hyderabad,Morning,zero,Afternoon,Delhi,Economy,2,46.0
+,Hyderabad,Early_Morning,one,Afternoon,Mumbai,Business,8,24.0
+,Mumbai,Afternoon,zero,Evening,Delhi,Business,2,39.0
+Vistara,Hyderabad,Night,one,Evening,Bangalore,Business,20,23.0
+,Kolkata,Afternoon,one,Morning,Delhi,Economy,20,9.0

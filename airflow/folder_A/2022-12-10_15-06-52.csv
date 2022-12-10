@@ -1,0 +1,6 @@
+airline,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left
+Air_India,Bangalore,Morning,one,Night,Chennai,Business,13,5.0
+Vistara,Delhi,Early_Morning,one,Evening,Bangalore,Business,12,9.0
+Vistara,Bangalore,Night,one,Evening,Delhi,Business,19,16.0
+Vistara,Hyderabad,Afternoon,one,Evening,Bangalore,Business,6,23.0
+Air_India,Delhi,Afternoon,one,Night,Hyderabad,Business,7,5.0

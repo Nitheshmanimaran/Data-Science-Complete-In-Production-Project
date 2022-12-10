@@ -1,0 +1,6 @@
+airline,source_city,departure_time,stops,arrival_time,destination_city,class,duration,days_left
+,Mumbai,Afternoon,zero,Evening,Delhi,Business,2,39.0
+Air_India,Mumbai,Early_Morning,one,Night,Bangalore,Business,12,29.0
+Air_India,Chennai,Morning,one,Evening,Mumbai,Economy,8,13.0
+Vistara,Bangalore,Morning,one,Night,Delhi,Economy,14,19.0
+Vistara,Mumbai,Early_Morning,one,Night,Delhi,Business,16,41.0
